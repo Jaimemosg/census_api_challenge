@@ -76,4 +76,4 @@ You should obtain the following response:
 ]
 ```
 
-By **Jaime Mosquera Gútiérrez** - [https://github.com/Jaimemosg](https://github.com/Jaimemosg)
+By **Jaime Mosquera Gútiérrez** - [Jaimemosg](https://github.com/Jaimemosg)
