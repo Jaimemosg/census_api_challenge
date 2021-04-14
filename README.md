@@ -43,6 +43,7 @@ ctrl + c
 
 ## Usage (example)
 
+### Example 1
 You could perform a query such the following
 
 ```
@@ -75,5 +76,20 @@ You should obtain the following response:
   }
 ]
 ```
+
+### Example 2
+Another possible query is the following
+
+```
+{
+  "age": 43,
+  "class_of_worker": "Private",
+  "industry_code": 43,
+  "occupation_code": 7
+}
+```
+
+What was the answer?
+---
 
 By **Jaime Mosquera Gútiérrez** - [Jaimemosg](https://github.com/Jaimemosg)
