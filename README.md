@@ -48,14 +48,14 @@ You could perform a query such the following
 ```
 {
   "age": 31,
-  "class_of_worker": " Private",
+  "class_of_worker": "Private",
   "industry_code": 43,
   "occupation_code": 7,
-  "marital_status": " Never married",
-  "major_industry_code": " Education",
-  "major_occupation_code": " Professional specialty",
-  "hispanic_origin": " Mexican (Mexicano)",
-  "sex": " Female"
+  "marital_status": "Never married",
+  "major_industry_code": "Education",
+  "major_occupation_code": "Professional specialty",
+  "hispanic_origin": "Mexican (Mexicano)",
+  "sex": "Female"
 }
 ```
 
