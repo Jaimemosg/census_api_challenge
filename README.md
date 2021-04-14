@@ -2,7 +2,7 @@
 
 This API returns filters the `census-income + (KDD)` data set and computes the mean, minumum  and maximum wage per hour, the minumum and maximum weeks worked by an employee, the number of employees whose income is greater than 50k and the total number of employees filtered.
 
-## Set up
+## Info
 
 In this repo you can find:
 
@@ -10,7 +10,12 @@ In this repo you can find:
 - `EDA_census.ipnb`: Jupyter notebook cwith EDA (Exploratory Data Analysis).
 - `RDB_creation.ipynb`: Jupyter notebook for data base creation.
 
-For using this app, please:
+## Remote
+ This API was deployed at Heroku where you can also test it from the docs endpoint
+
+[https://fastapi-census.herokuapp.com/docs](https://fastapi-census.herokuapp.com/docs)
+
+## Local use
 
 ### 1. Install requirements
 ```
@@ -38,7 +43,8 @@ ctrl + c
 
 ## Usage (example)
 
-Perform the following query in [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs):
+You could perform a query such the following
+
 ```
 {
   "age": 31,
@@ -69,3 +75,5 @@ You should obtain the following response:
   }
 ]
 ```
+
+By **Jaime Mosquera Gútiérrez** - [https://github.com/Jaimemosg](https://github.com/Jaimemosg)
