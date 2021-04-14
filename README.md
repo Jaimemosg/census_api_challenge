@@ -7,7 +7,7 @@ This API returns filters the `census-income + (KDD)` data set and computes the m
 In this repo you can find:
 
 - `documentation/census_BD.pdf`: the entity-raletion diagram.
-- `EDA_census.ipnb`: Jupyter notebook cwith EDA (Exploratory Data Analysis).
+- `EDA_census.ipnb`: Jupyter notebook cwith EDA (Exploratory Data Analysis and Analytics).
 - `RDB_creation.ipynb`: Jupyter notebook for data base creation.
 
 ## Remote
