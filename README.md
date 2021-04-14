@@ -90,6 +90,7 @@ Another possible query is the following
 ```
 
 What was the answer?
+
 ---
 
 By **Jaime Mosquera Gútiérrez** - [Jaimemosg](https://github.com/Jaimemosg)
