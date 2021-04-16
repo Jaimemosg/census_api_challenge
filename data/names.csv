@@ -7,8 +7,8 @@ Num;Code;Feature;Type;Person;Codified;Migration;Employee;DataType
 5;wage_per_hour;Wage per hour;numeric;0;0;0;1;numeric
 6;hs_college;Enrolled in educational institution last week;categorical;0;0;0;0;no
 7;marital_stat;Marital status;categorical;1;1;0;0;text
-8;major_ind_code;Major industry code;categorical;0;0;0;0;no
-9;major_occ_code;Major occupation code;categorical;0;0;0;0;no
+8;major_ind_code;Major industry code;categorical;0;0;0;0;text
+9;major_occ_code;Major occupation code;categorical;0;0;0;0;text
 10;race;Race;categorical;1;1;0;0;text
 11;hisp_origin;Hispanic origin;categorical;1;1;0;0;text
 12;sex;Sex;categorical;1;1;0;0;text
